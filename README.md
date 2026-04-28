@@ -2,8 +2,8 @@
 This is a cat age calculator and also my first project. I'm putting on GitHub!It is in lang C++.
 
 #include <iostream>
-
 int main() {
+  
   /*This is code to calculate the age of a cat in human years containing a special message 
   if its 10 or more years old or a asburd number */
  
